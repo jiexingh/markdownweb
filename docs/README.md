@@ -2,7 +2,7 @@
  * @Autor: jiexingh
  * @Date: 2020-05-11 22:47:38
  * @LastEditors: jiexingh
- * @LastEditTime: 2020-05-11 23:56:13
+ * @LastEditTime: 2020-08-23 22:58:29
  -->
 
 # 此项目使用MarkDown的方式记录平时开发工作过程中觉得需要记录的一些工具使用方法；学习笔记等等相关（This project uses the MarkDown method to record some of the tools used during the usual development work; study notes, etc.）
@@ -28,3 +28,4 @@ Regarding why I created this project
   + [vscode-tips.md](https://github.com/jiexingh/markdown-toolTips/blob/master/vscode-tips.md) 用于记录vscode 相关的一些插件技巧
   + [markdown-tips.md](https://github.com/jiexingh/markdown-toolTips/blob/master/markdown-tips.md) 用于记录markdown 相关
   + [mysql-note.md](https://github.com/jiexingh/markdown-toolTips/blob/dev/mysql-note.md) 用于记录mysql数据库相关笔记
+  + [canvas 学习相关](https://github.com/jiexingh/study-notes/tree/master/canvas) 用于记录canvas学习记录
